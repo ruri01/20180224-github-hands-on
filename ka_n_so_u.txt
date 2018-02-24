@@ -1,0 +1,11 @@
+今日はありがとうございました。
+
+
+起きたエラー＠win環境
+
+・pushできない
+エラー：Your push would publish a private email address
+⇒settings/emailsでKeep my email address privateのチェックがついてたのを外して解決
+
+エラー：fatal: Unable to create 'C:/path/to/.git/index.lock': File exists.
+⇒https://qiita.com/yshishido/items/d62430ebf7ad259f5bec
